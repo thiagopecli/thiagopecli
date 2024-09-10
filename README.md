@@ -21,4 +21,4 @@
     <img align="center" alt="googleclound" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div><br/>
 
-## Estou no 3 Semestre de Ciência da Computação, aprendendo e desenvolvendo meus conhecimentos adquiridos em laboratório. Aqui postarei todos os meus projetos e trabalhos ao longo dos estudos e carreira. 
+## Estou no 3 Periodo de Ciência da Computação, aprendendo e desenvolvendo meus conhecimentos adquiridos em laboratório. Aqui postarei todos os meus projetos e trabalhos ao longo dos estudos e carreira. 
