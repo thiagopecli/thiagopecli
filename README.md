@@ -10,10 +10,6 @@
 
 ### Tecnologias que estou aprendendo a desenvolver <br/>
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopecli&show_icons=true&bg_color=00000000)
-
-</div>
-
 <div style="display: inline_block"><br/>
     <p align="center">
   <a href="https://skillicons.dev">
@@ -21,5 +17,9 @@
   </a>
 </p>
 </div><br/>
+
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopecli&show_icons=true&bg_color=00000000)
+
+</div>
 
 ## Estou no 3 Periodo de Ciência da Computação, aprendendo e desenvolvendo meus conhecimentos adquiridos em laboratório. Aqui postarei todos os meus projetos e trabalhos ao longo dos estudos e carreira. 
