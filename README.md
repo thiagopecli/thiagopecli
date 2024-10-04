@@ -8,7 +8,7 @@
 
 ### Tecnologias que estou aprendendo a desenvolver
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?[thiagopecli](https://github.com/thiagopecli)=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?[thiagopecli](https://github.com/thiagopecli)=ThiagoPereira&show_icons=true&theme=merko)
 
 <div style="display: inline_block"><br/>
     <p align="center">
