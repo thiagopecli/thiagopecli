@@ -19,7 +19,6 @@
 </div><br/>
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopecli&show_icons=true&bg_color=00000000)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopecli&layout=donut)](https://github.com/thiagopecli/github-readme-stats)
 
 ## Estou no 3 Periodo de Ciência da Computação, aprendendo e desenvolvendo meus conhecimentos adquiridos em laboratório. Aqui postarei todos os meus projetos e trabalhos ao longo dos estudos e carreira. 
 
