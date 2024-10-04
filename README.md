@@ -1,4 +1,6 @@
-## Olá, eu sou o Thiago Pereira 💫
+<div style="display: inline_block"><br/>
+    <p align="center">
+        ## Olá, eu sou o Thiago Pereira 💫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dos-santos-pereira-a0585329a/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090417618931)
@@ -9,6 +11,8 @@
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopecli&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que estou aprendendo a desenvolver
+</p>
+</div><br/>
 
 <div style="display: inline_block"><br/>
     <p align="center">
