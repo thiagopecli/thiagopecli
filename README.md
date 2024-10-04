@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thiagopecli)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thiagopecli)
 
-### Tecnologias que estou aprendendo a desenvolver <br/>
+### Tecnologias que estou aprendendo a desenvolver
 
 <div style="display: inline_block"><br/>
     <p align="center">
