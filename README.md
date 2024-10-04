@@ -6,7 +6,11 @@
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thiagopecli)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thiagopecli)
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopecli&show_icons=true&theme=tokyonight)
+< div  id = "stats" > 
+  < h2 > Estatísticas </ h2 > 
+  < img  src = "https://streak-stats.demolab.com?user=[seu nome de usuário]&theme=transparent&fire=EB5454"  alt = "GitHub Streak" /> 
+  < img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopecli&layout=compact&theme=vision-friendly-dark"  alt = "Principais idiomas" /> 
+</ div >
 
 ### Tecnologias que estou aprendendo a desenvolver
 
