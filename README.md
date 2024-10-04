@@ -1,3 +1,6 @@
+<div style="display: inline_block"><br/>
+    <p align="center">
+        
 ## Olá, eu sou o Thiago Pereira 💫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dos-santos-pereira-a0585329a/)
@@ -10,8 +13,6 @@
 
 ### Tecnologias que estou aprendendo a desenvolver
 
-<div style="display: inline_block"><br/>
-    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,git" />
   </a>
