@@ -8,7 +8,9 @@
 
 🌱 Atualmente aprofundando meus conhecimentos em:
 
-Data Science & DevOps | Alura
+Data Science | Alura
+
+DevOps | Alura
 
 Back-end Python | Softex Pernambuco (Bolsa Futuro Digital)
 
