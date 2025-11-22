@@ -24,7 +24,7 @@ Back-end Python | Softex Pernambuco (Bolsa Futuro Digital)
 <div style="display: inline_block"><br/>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,git" />
   </a>
 </p>
 </div><br/>
