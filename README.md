@@ -17,7 +17,6 @@ Back-end Python | Softex Pernambuco (Bolsa Futuro Digital)
 📫 Sinta-se à vontade para entrar em contato através do meu LinkedIn e Instagram 👇🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodossantospereira/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagopecli/)
 
 ### Tecnologias que estou aprendendo! 
 
