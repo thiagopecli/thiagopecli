@@ -28,8 +28,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagopecli&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="Estatísticas do Thiago" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagopecli&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Linguagens Mais Usadas" />
+  <a href="https://github.com/thiagopecli">
+    <img src="https://github-readme-stats.vercel.app/api?username=thiagopecli&theme=tokyonight&show_icons=true&locale=pt-br&v=1" height="150" alt="Estatísticas do Thiago" />
+  </a>
+  <a href="https://github.com/thiagopecli">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopecli&theme=tokyonight&layout=compact&locale=pt-br&v=1" height="150" alt="Linguagens Mais Usadas" />
+  </a>
 </div>
 
 ---
