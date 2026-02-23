@@ -25,15 +25,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 O que estou fazendo agora:
 
 <div align="center">
-  <a href="https://github.com/thiagopecli">
-    <img src="https://github-readme-stats.vercel.app/api?username=thiagopecli&theme=tokyonight&show_icons=true&locale=pt-br&v=1" height="150" alt="Estatísticas do Thiago" />
-  </a>
-  <a href="https://github.com/thiagopecli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopecli&theme=tokyonight&layout=compact&locale=pt-br&v=1" height="150" alt="Linguagens Mais Usadas" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Python+%26+Data+Science;Focado+em+DevOps+e+Back-end;Construindo+novas+solu%C3%A7%C3%B5es...;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 
 ---
