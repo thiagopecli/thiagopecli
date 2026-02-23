@@ -28,7 +28,7 @@
 ### 🚀 O que estou fazendo agora:
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Python+%26+Data+Science;Focado+em+DevOps+e+Back-end;Construindo+novas+solu%C3%A7%C3%B5es...;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Python+%26+Data+Science;Focado+em+DevOps+e+Back-end;Construindo+novas+solu%C3%A7%C3%B5es...;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 
 ---
